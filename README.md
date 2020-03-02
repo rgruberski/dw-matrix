@@ -4,6 +4,11 @@ DataWorkshop Matrix - learn the rules of the game, data science and machine lear
 ## Repository overview
 The repository contains amazing things done during the DataWorkshop Matrix Challenge. The DataWorkshop Matrix project consists of three transformations, each containing five days of tasks to complete.
 
+## Editions
+
+1. Simple shoe prices prediction
+2. More advanced car prices prediction
+
 ## References
 * [DataWorkshop Matrix Website](https://dataworkshop.eu/matrix)
 
